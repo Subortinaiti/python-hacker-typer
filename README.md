@@ -7,8 +7,11 @@ write the text you want to write in the commands.txt file
 
 controls:
 escape - quit
+
 F9 - toggle autotype
+
 any key - write
+
 
 
 if you want to change the variables, refer to this guide:
